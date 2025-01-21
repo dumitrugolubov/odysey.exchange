@@ -1,5 +1,13 @@
 User-agent: *
 Allow: /
 Disallow: /exchange
+Disallow: /*?*
+Disallow: /*?
 
-Sitemap: https://odysseys.trade/sitemap.xml
+# Prevent duplicate content issues
+Disallow: /amp/
+Disallow: /print/
+Disallow: /pdf/
+Disallow: /mobile/
+
+Sitemap: https://odysey.exchange/sitemap.xml
