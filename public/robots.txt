@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
+Allow: /gdpr
 Disallow: /exchange
 Disallow: /*?*
 Disallow: /*?
@@ -10,4 +11,5 @@ Disallow: /print/
 Disallow: /pdf/
 Disallow: /mobile/
 
+# Sitemap
 Sitemap: https://odysey.exchange/sitemap.xml
