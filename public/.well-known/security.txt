@@ -1,0 +1,5 @@
+Contact: mailto:security@odysey.exchange
+Expires: 2026-01-23T12:00:00.000Z
+Preferred-Languages: en, it
+Canonical: https://odysey.exchange/.well-known/security.txt
+Policy: https://odysey.exchange/security-policy
